@@ -1,0 +1,17 @@
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\bin\Release\net6.0\Infrastructure.deps.json
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\bin\Release\net6.0\Infrastructure.dll
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\bin\Release\net6.0\Infrastructure.pdb
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\bin\Release\net6.0\ApplicationCore.dll
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\bin\Release\net6.0\BlazorShared.dll
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\bin\Release\net6.0\ApplicationCore.pdb
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\bin\Release\net6.0\BlazorShared.pdb
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\Infrastructure.dll
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\refint\Infrastructure.dll
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\Infrastructure.pdb
+C:\Users\gogog\Desktop\projekt bezpieczeństwo ciul tam wie\eShopOnWeb\src\Infrastructure\obj\Release\net6.0\ref\Infrastructure.dll

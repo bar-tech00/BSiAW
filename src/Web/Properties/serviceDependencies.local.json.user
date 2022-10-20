@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-10-10T17:40:43.1023239Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-10-10T17:40:34.9713435Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "6b028615-e692-404b-9689-3db973c07ec9"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "skleptestowystudenciakow_group"
+    }
+  }
+}
