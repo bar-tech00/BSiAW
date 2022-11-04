@@ -11,7 +11,7 @@ jobs:
       - checkout
       - run:
           name: "Install project dependencies"
-          command: dotnet.exe restore
+          command: dotnet.exe restore eShopOnWeb.sln
       - run:
           name: "Build Application according to some given configuration"
           command: dotnet.exe build eShopOnWeb.sln --configuration Release
