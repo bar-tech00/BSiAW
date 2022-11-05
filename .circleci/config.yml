@@ -1,21 +1,16 @@
 version: 2.1
 jobs:
   build:
-    docker:
-      - image: mcr.microsoft.com/dotnet/core/sdk:2.2
+
+    runs-on: ubuntu-latest
+
     steps:
-      - checkout
-      - run:
-          name: Restore packages
-          command:
-            dotnet restore
-      - run:
-          name: Build App
-          command:
-            dotnet build
-      - run:
-          name: Run App
-          command:
-            dotnet run
-    
-         
+    - uses: actions/checkout@v3
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 6.0.x
+    - name: Build
+      run: dotnet build ./eShopOnWeb.sln --configuration Release
+    - name: Test
+      run: dotnet test ./eShopOnWeb.sln --configuration Release
