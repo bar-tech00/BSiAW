@@ -64,6 +64,8 @@
   <ItemGroup>
     <Content Update="appsettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>Never</CopyToPublishDirectory>
     </Content>
     <Content Update="Views\Shared\_Layout.cshtml">
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
